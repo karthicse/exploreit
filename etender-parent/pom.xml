@@ -5,9 +5,4 @@
 	<artifactId>etender-parent</artifactId>
 	<version>1.0</version>
 	<packaging>pom</packaging>
-	<modules>
-		<module>etender-core</module>
-		<module>etender-service</module>
-		<module>etender</module>
-	</modules>
 </project>
